@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "practice-api",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/practice-api/",
     "preview": "vite preview"
   },
   "devDependencies": {
